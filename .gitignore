@@ -1,6 +1,7 @@
-# Data
+# Data/ test
 data/
 test/
+catboost_info/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
